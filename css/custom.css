@@ -22,9 +22,9 @@
     color: #555555;
     background-color: #ffffff;
     border: 0px solid transparent;
-    border-bottom: 3px solid red;
+    border-bottom: 3px solid #333333;
     cursor: default;
-    color: #e84c3d;
+    color: #333333;
 }
 
 .icon-item {
@@ -35,7 +35,7 @@
 }
 
 .icon-item:hover {
-    border-bottom:2px solid #e84c3d;
+    border-bottom:2px solid #333333;
     background-color: whitesmoke;
 }
 
